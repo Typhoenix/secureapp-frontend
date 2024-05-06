@@ -1,0 +1,107 @@
+.create-account-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .create-account-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .create-account-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .create-account-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .create-account-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .error-message {
+    color: #dc3545;
+  }
+  
+  .success-message {
+    color: #28a745;
+  }
+  .create-account-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .create-account-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .create-account-form label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .create-account-form input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .create-account-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ .success-message {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .error-message {
+    color: rgba(255, 0, 0, 0.8); /* Adjust the opacity to make the text more visible */
+    margin-top: 5px;
+  }
+  
+  
+  .success-message {
+    background-color: #28a745;
+    color: hsl(237, 91%, 51%);
+  }
+  
+  .go-back-to-dashboard {
+    margin-top: 20px;
+    text-align: right;
+  }
+  
+  .go-back-to-dashboard .link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .go-back-to-dashboard .link:hover {
+    text-decoration: underline;
+  }
+  
